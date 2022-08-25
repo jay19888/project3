@@ -311,7 +311,7 @@ Color codes the commit SHA
 git log --pretty=oneline
 ```
 
-or 
+or we can use
 
 ```bash
 git log --graph --oneline --all
